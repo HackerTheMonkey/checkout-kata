@@ -62,15 +62,6 @@
 			</plugin>
 		</plugins>
 	</build>
-
-	<!--
-		TODO:
-        Change the below settings once we have the git repo to host this project set up.
-	-->
-	<scm>
-		<connection>scm:git:ssh://git@git.masabi.systems:7999/com/metrolink-ticket-encoder.git</connection>
-		<developerConnection>scm:git:ssh://git@git.masabi.systems:7999/com/metrolink-ticket-encoder.git</developerConnection>
-		<url>scm:git:ssh://git@git.masabi.systems:7999/com/metrolink-ticket-encoder.git</url>
-	</scm>
+	
 
 </project>
