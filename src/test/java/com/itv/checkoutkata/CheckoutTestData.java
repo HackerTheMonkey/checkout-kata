@@ -11,11 +11,6 @@ import java.util.Map;
 @Data
 public class CheckoutTestData {
 
-    /**
-     * TODO integrate_AMTRAK_encoder
-     * tidy up
-     */
-
     private List<Item> checkoutItems = new ArrayList<>();
     private Map<Item, PricingRule> pricingRules = Maps.newHashMap();
 
