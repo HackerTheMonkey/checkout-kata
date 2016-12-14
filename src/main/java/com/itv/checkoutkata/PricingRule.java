@@ -7,10 +7,7 @@ import lombok.Data;
 @Builder
 public class PricingRule {
 
-    /**
-     * TODO integrate_AMTRAK_encoder
-     * unit test this
-     */
+
     private final Item item;
 
     private final double unitPrice;
